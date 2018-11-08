@@ -99,16 +99,16 @@ img {
     border-bottom: 2px #999999 solid;
 }
 
-a {
+.projlink {
   color: #6f567d;
   font-weight: 600;
 }
 
-a:hover {
+.projlink:hover {
   color: #9f8ea8;
 }
 
-a:visited {
+.projlink:visited {
   color: #4c3658;
 }
 
@@ -126,10 +126,10 @@ a:visited {
   display: block;
   height: 50px;
   width: 200px;
-  background-color: #5f446f;
+  background-color: #5f446f !important;
   border: 1px #bfb4c5 solid;
   border-radius: 15px;
-  color: #fff;
+  color: #fff !important;
   text-align: center;
   font-size: 20px;
   text-decoration: none;
@@ -148,7 +148,7 @@ a:visited {
   justify-content: flex-start;
   align-items: center;
   width: 100%;
-  height: 100vh;
+  height: 35vh;
   background-color: #392842;
   text-align: center;
 }
