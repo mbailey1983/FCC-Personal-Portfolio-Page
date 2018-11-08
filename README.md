@@ -6,3 +6,5 @@ I used http://www.color-hex.com to choose colors.
 I added a box-shadow based on an example from [W3Schools in their CSS Shadows section](https://www.w3schools.com/css/css3_shadows.asp).
 
 Using flexbox means this is completely mobile friendly.
+
+And while it was meant to be a sample, I will probably continue adding to the projects section as I complete more test projects.
